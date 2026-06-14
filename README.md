@@ -5,7 +5,7 @@ An Excel-based sales analytics project that summarizes order-level sales, profit
 ## What's in here
 
 - <a href="https://github.com/Manohar-92/Sales-Performance-Dashboard/blob/main/Orders-Filled.xlsx">Orders-Filled.xlsx<a/> – the main file. Has the raw order data, the pivot tables behind the charts, and the dashboard itself.
-- <a href="">Orders-With_Nulls.xlsx<a/> – same data but with a few Sales/Profit values missing (Order IDs 32, 35, 36, 65). Kept this around for testing how the pivots/charts handle blanks.
+- <a href="https://github.com/Manohar-92/Sales-Performance-Dashboard/blob/main/Orders-With%20Nulls.xlsx">Orders-With_Nulls.xlsx<a/> – same data but with a few Sales/Profit values missing (Order IDs 32, 35, 36, 65). Kept this around for testing how the pivots/charts handle blanks.
 - <a href="https://github.com/Manohar-92/Sales-Performance-Dashboard/commit/218de5d87b35062b79441bf4294e64ec1bd38b2a">Orders_Sales_Performance_Dashboard.png<a/> – screenshot of the finished dashboard.
 
 ## The data
