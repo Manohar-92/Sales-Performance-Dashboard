@@ -38,7 +38,8 @@ The `Dashboard` sheet (and the PNG screenshot) is organized as follows:
 
 All charts are driven by pivot tables on the `Pivot` sheet, which in turn reference `Orders Sheet`.
 
-<img width="1310" height="756" alt="Orders Sales Performance Dashboard" src="https://github.com/user-attachments/assets/79dcef1a-bf92-4bbc-9e6f-39a5f00d827e" />
+<img width="1310" height="756" alt="Orders Sales Performance Dashboard" src="https://github.com/user-attachments/assets/f778f2d3-01a9-4ca2-84da-109b3139829d" />
+
 
 
 ## Known issue / to fix
